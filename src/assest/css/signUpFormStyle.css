@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+
+}
+
+.form_group {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 12px;
+}
